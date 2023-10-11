@@ -1,0 +1,47 @@
+html,
+/* aqui e o style do nosso corpo */
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+    transition: .4s;
+} 
+body{ 
+    background-color:#7F7F7F;
+    max-width: 100%; 
+}
+
+
+.cabecinha_de_baixo{
+    background-color: rgba(255, 255, 255, 0);
+    width: 100%;
+    border-color:rgba(255, 255, 255, 0.988);
+    padding: auto;
+}
+/* aqui sao as especificacoes das fontes */
+h1 {
+    color: #000000;
+    text-align: center;
+    font-family:'Roboto Mono', monospace;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+hr{
+    font-family: 'Roboto Mono', monospace;
+    color: azure;
+    line-height: 1.5;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p {
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom:20px;
+}

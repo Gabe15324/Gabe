@@ -1,0 +1,19 @@
+body {
+    background-image: url("/assets/image/Used_ones_by_kirokaze_on_DeviantArt.gif");
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100px;
+    height: 100px;
+    background-size: cover; 
+    background-attachment: fixed;
+  }
+  
+  .campo-senha {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+label {
+    color: aliceblue;
+}
